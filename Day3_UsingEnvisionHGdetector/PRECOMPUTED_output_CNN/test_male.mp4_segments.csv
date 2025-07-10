@@ -1,0 +1,5 @@
+start_time,end_time,labelid,label,duration
+0.94,1.3,1,Gesture,0.3600000000000001
+1.9,3.46,2,Gesture,1.56
+9.34,9.58,3,Gesture,0.2400000000000002
+10.42,11.66,4,Gesture,1.2400000000000002

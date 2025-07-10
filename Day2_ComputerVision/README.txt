@@ -1,0 +1,2 @@
+Link to repository: https://github.com/andandandand/practical-computer-vision/tree/main
+Link to slides: https://docs.google.com/presentation/d/1NFkFrWi5OZGApal4ixHhBgwQcdvP9Y_fuwUrZLs6QBA/edit?usp=sharing

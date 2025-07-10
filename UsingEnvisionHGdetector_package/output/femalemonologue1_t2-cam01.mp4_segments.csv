@@ -1,7 +1,0 @@
-start_time,end_time,labelid,label,duration
-0.7,1.66,1,Gesture,0.96
-3.5,4.5,2,Gesture,1.0
-7.02,7.58,3,Move,0.5600000000000005
-7.7,9.3,4,Gesture,1.6000000000000005
-10.7,12.46,5,Gesture,1.7600000000000016
-13.38,17.78,6,Gesture,4.4
